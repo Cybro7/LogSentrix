@@ -15,22 +15,22 @@ LogSentrix is a Python-based tool designed to analyze Windows Event Logs in real
 - JSON
 
 ## Project Status
-🚧 Work in Progress – Core log reading implemented, advanced analysis coming soon.
+ Work in Progress – Core log reading implemented, advanced analysis coming soon.
 
-## 📂 Planned Modules
+## Planned Modules
 - `log_reader.py` → Reads Windows logs
 - `translator.py` → Converts raw logs to structured format
 - `risk_engine.py` → Detects suspicious patterns
 
-## 📊 Future Goals
+## Future Goals
 - Real-time monitoring dashboard
 - AI-based anomaly detection
 - Export reports (PDF/CSV)
 
-## ⚠️ Note
+## Note
 This tool is for educational and ethical cybersecurity purposes only.
 
 ---
 
-## 👨‍💻 Author
+## Author
 Yogesh Mondal
